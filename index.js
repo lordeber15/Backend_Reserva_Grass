@@ -10,7 +10,7 @@ async function main() {
       console.log("Escuchando en el puerto: ", port);
     });
   } catch (error) {
-    console.error("No tienes un error aqui revisa bien: ", error);
+    console.error("tienes un error aqui revisa bien: ", error);
   }
 }
 
